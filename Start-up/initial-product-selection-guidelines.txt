@@ -1,0 +1,17 @@
+Everyone needs to think about the business case that will help us choose the shared 
+    example from 2 perspectives (not viewpoints): 
+1) the business case for the example product: why would a company make this thing
+2) the business case for using the example
+
+    Some criteria for people suggesting an example (we should formalize this so others can use it):
+1) is the example understood by a broad range of people on the Discord channel?
+2) does the example cover mechanical, electrical, electronic, software disciplines?
+3) is the example understandable, but difficult enough to require cooperation from the team?
+4) does the example force us to consider business drivers: market acceptance/share, PM, funding, 
+   ROI, ... (you business analysts can help me out here - collaboration - Yay!)
+5) as many as we can brainstorm. we will then decide on the top ~10 - 20 and use them in a 
+   decision matrix to pick the example.
+
+So everybody get to work on your Product Business Case and think about the Example Business Case. 
+(This part of the exercise addresses business analysis, one of the places systems engineers say 
+they are needed)
